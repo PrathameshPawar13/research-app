@@ -1,9 +1,0 @@
-{
-  "name": "research-agent",
-  "version": "1.0.0",
-  "description": "AI-powered research agent built with Claude",
-  "private": true,
-  "engines": {
-    "node": ">=18"
-  }
-}
